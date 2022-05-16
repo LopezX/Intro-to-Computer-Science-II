@@ -1,0 +1,3 @@
+C:/Users/xslop/CLionProjects/Project 6 - Study of Programming Pardigms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/xslop/CLionProjects/Project 6 - Study of Programming Pardigms/cmake-build-debug/CMakeFiles/Project_6___Study_of_Programming_Pardigms.dir
+C:/Users/xslop/CLionProjects/Project 6 - Study of Programming Pardigms/cmake-build-debug/CMakeFiles/edit_cache.dir
