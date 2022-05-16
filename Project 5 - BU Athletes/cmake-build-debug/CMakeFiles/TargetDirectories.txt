@@ -1,0 +1,3 @@
+C:/Users/xslop/CLionProjects/Project 5 - BU Athletes/cmake-build-debug/CMakeFiles/Project_5___BU_Athletes.dir
+C:/Users/xslop/CLionProjects/Project 5 - BU Athletes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xslop/CLionProjects/Project 5 - BU Athletes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
