@@ -1,0 +1,3 @@
+C:/Users/xslop/CLionProjects/Project2 - 1D Dynamic Arrays/cmake-build-debug/CMakeFiles/Project2___1D_Dynamic_Arrays.dir
+C:/Users/xslop/CLionProjects/Project2 - 1D Dynamic Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xslop/CLionProjects/Project2 - 1D Dynamic Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
