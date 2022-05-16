@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(Lab_7___Templates__Binary_Files__and_Exceptions)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Lab_7___Templates__Binary_Files__and_Exceptions lab7-main.cpp)

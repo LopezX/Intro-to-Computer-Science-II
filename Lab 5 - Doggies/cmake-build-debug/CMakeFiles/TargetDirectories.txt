@@ -1,0 +1,3 @@
+C:/Users/xslop/CLionProjects/Lab 5 - Doggies/cmake-build-debug/CMakeFiles/Lab_5___Doggies.dir
+C:/Users/xslop/CLionProjects/Lab 5 - Doggies/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xslop/CLionProjects/Lab 5 - Doggies/cmake-build-debug/CMakeFiles/rebuild_cache.dir
