@@ -1,0 +1,3 @@
+C:/Users/xslop/CLionProjects/Project 8 - Binary File Sort/cmake-build-debug/CMakeFiles/Project_8___Binary_File_Sort.dir
+C:/Users/xslop/CLionProjects/Project 8 - Binary File Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xslop/CLionProjects/Project 8 - Binary File Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
